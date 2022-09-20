@@ -1,4 +1,4 @@
-FROM node:v2
+FROM node
 
 
 
